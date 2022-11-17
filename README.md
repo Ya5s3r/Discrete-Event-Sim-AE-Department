@@ -9,5 +9,6 @@ https://medium.com/@yasser.mushtaq/object-oriented-discrete-event-simulation-wit
 Example outputs:
 Total waiters for resources by simulation time:
 ![Screenshot](https://raw.githubusercontent.com/Ya5s3r/Discrete-Event-Sim-AE-Department/main/outputs/mean_waiters_fig.png)
+
 Average time in system by priority:
 ![Screenshot](https://raw.githubusercontent.com/Ya5s3r/Discrete-Event-Sim-AE-Department/main/outputs/mean_time_in_system_priority_fig.png)
